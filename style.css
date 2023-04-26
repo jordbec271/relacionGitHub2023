@@ -1,0 +1,15 @@
+#divEjercicio01 p{
+    background-color: antiquewhite;
+    color: blue;
+}
+
+#divPrueba{
+    height: 500px;
+    width: 500px;
+    background-color: brown;
+}
+
+.verdeGris{
+    background-color: rgb(181, 177, 177);
+    color: green;
+}
